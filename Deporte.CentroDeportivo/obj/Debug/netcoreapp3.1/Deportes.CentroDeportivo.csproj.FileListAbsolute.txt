@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\Deportes\Deporte.CentroDeportivo\bin\Debug\netcoreapp3.1\Deportes.CentroDeportivo.deps.json
+C:\Users\pc\Desktop\Deportes\Deporte.CentroDeportivo\bin\Debug\netcoreapp3.1\Deportes.CentroDeportivo.dll
+C:\Users\pc\Desktop\Deportes\Deporte.CentroDeportivo\bin\Debug\netcoreapp3.1\Deportes.CentroDeportivo.pdb
+C:\Users\pc\Desktop\Deportes\Deporte.CentroDeportivo\obj\Debug\netcoreapp3.1\Deportes.CentroDeportivo.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Deportes\Deporte.CentroDeportivo\obj\Debug\netcoreapp3.1\Deportes.CentroDeportivo.AssemblyInfo.cs
+C:\Users\pc\Desktop\Deportes\Deporte.CentroDeportivo\obj\Debug\netcoreapp3.1\Deportes.CentroDeportivo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Deportes\Deporte.CentroDeportivo\obj\Debug\netcoreapp3.1\Deportes.CentroDeportivo.dll
+C:\Users\pc\Desktop\Deportes\Deporte.CentroDeportivo\obj\Debug\netcoreapp3.1\Deportes.CentroDeportivo.pdb

@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\Deportes\Deportes.Negocio\bin\Debug\netcoreapp3.1\Deportes.Negocio.deps.json
+C:\Users\pc\Desktop\Deportes\Deportes.Negocio\bin\Debug\netcoreapp3.1\Deportes.Negocio.dll
+C:\Users\pc\Desktop\Deportes\Deportes.Negocio\bin\Debug\netcoreapp3.1\Deportes.Negocio.pdb
+C:\Users\pc\Desktop\Deportes\Deportes.Negocio\obj\Debug\netcoreapp3.1\Deportes.Negocio.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Deportes\Deportes.Negocio\obj\Debug\netcoreapp3.1\Deportes.Negocio.AssemblyInfo.cs
+C:\Users\pc\Desktop\Deportes\Deportes.Negocio\obj\Debug\netcoreapp3.1\Deportes.Negocio.dll
+C:\Users\pc\Desktop\Deportes\Deportes.Negocio\obj\Debug\netcoreapp3.1\Deportes.Negocio.pdb
+C:\Users\pc\Desktop\Deportes\Deportes.Negocio\obj\Debug\netcoreapp3.1\Deportes.Negocio.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Deportes\Deportes.Negocio\bin\Debug\netcoreapp3.1\Deportes.Negocio.runtimeconfig.json
+C:\Users\pc\Desktop\Deportes\Deportes.Negocio\bin\Debug\netcoreapp3.1\Deportes.Negocio.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Deportes\Deportes.Negocio\obj\Debug\netcoreapp3.1\Deportes.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Deportes\Deportes.Negocio\obj\Debug\netcoreapp3.1\Deportes.Negocio.genruntimeconfig.cache
